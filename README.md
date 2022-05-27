@@ -39,3 +39,6 @@ b2c-extensions-app. Do not modify. Used by AADB2C for storing user data.是系�
 9）修改TrustFrameworkExtensions的login-NonInteractive里面（client_id，IdTokenAudience，resource_id）
 <img width="1269" alt="Screen Shot 2022-05-27 at 12 21 54 PM" src="https://user-images.githubusercontent.com/7360524/170628552-d12e0a62-080e-46ec-a5f2-4e476ad78162.png">
 
+以及AAD-Common里面的ApplicationObjectId和ClientId
+<img width="1263" alt="Screen Shot 2022-05-27 at 12 23 44 PM" src="https://user-images.githubusercontent.com/7360524/170629044-ccdaf42b-6b55-4239-9216-e5b960bb1851.png">
+
